@@ -6,6 +6,11 @@
   "scripts": {
   	"test": "node test"
   },
+  "keywords": [
+    "function",
+    "noop",
+    "empty"
+  ],
   "repository": "git@github.com:Cap32/empty-functions.git",
   "author": "Cap32",
   "license": "MIT"
