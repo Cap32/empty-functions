@@ -1,10 +1,10 @@
 {
   "name": "empty-functions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Javascript empty functions",
   "main": "index.js",
   "scripts": {
-  	"test": "node test"
+    "test": "node test"
   },
   "keywords": [
     "function",
