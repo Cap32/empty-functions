@@ -1,4 +1,7 @@
 # empty-functions
+
+[![Build Status](https://travis-ci.org/Cap32/empty-functions.svg?branch=master)](https://travis-ci.org/Cap32/empty-functions)
+
 Javascript empty functions
 
 ## Installations
