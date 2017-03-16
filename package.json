@@ -1,0 +1,9 @@
+{
+  "name": "empty-functions",
+  "version": "1.0.0",
+  "description": "Javascript empty functions",
+  "main": "index.js",
+  "repository": "git@github.com:Cap32/empty-functions.git",
+  "author": "Cap32",
+  "license": "MIT"
+}
