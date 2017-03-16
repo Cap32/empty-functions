@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Javascript empty functions",
   "main": "index.js",
+  "scripts": {
+  	"test": "node test"
+  },
   "repository": "git@github.com:Cap32/empty-functions.git",
   "author": "Cap32",
   "license": "MIT"
