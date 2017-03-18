@@ -1,6 +1,6 @@
 {
   "name": "empty-functions",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Javascript empty functions",
   "main": "index.js",
   "scripts": {
