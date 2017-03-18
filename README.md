@@ -14,11 +14,11 @@ $ npm i empty-functions
 
 - [emptyFunctions()](./index.js)
 - [emptyFunctions.noop()](./noop.js)
-- [emptyFunctions.returnTrue()](./return-true.js)
-- [emptyFunctions.returnFalse()](./return-false.js)
-- [emptyFunctions.returnNull()](./return-null.js)
-- [emptyFunctions.returnArgument(arg)](./return-argument.js)
-- [emptyFunctions.returnThis()](./return-this.js)
+- [emptyFunctions.returnsTrue()](./returns-true.js)
+- [emptyFunctions.returnsFalse()](./returns-false.js)
+- [emptyFunctions.returnsNull()](./returns-null.js)
+- [emptyFunctions.returnsArgument(arg)](./returns-argument.js)
+- [emptyFunctions.returnsThis()](./returns-this.js)
 
 ## License
 
